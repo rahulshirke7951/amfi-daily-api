@@ -4438,10 +4438,10 @@ Baroda BNP Paribas Mutual Fund
  
 Franklin Templeton Mutual Fund
  
-118527;INF090I01IT8;-;Franklin India Dividend Yield Fund - Direct - Growth;150.0036;21-May-2026
-118526;INF090I01IR2;INF090I01IS0;Franklin India Dividend Yield Fund - Direct - IDCW;26.8561;21-May-2026
-103679;INF090I01932;INF090I01940;Franklin India Dividend Yield Fund - IDCW;23.6196;21-May-2026
-103678;INF090I01957;-;Franklin India Dividend Yield Fund-Growth Plan;136.1089;21-May-2026
+118527;INF090I01IT8;-;Franklin India Dividend Yield Fund - Direct - Growth;150.2762;22-May-2026
+118526;INF090I01IR2;INF090I01IS0;Franklin India Dividend Yield Fund - Direct - IDCW;26.9049;22-May-2026
+103679;INF090I01932;INF090I01940;Franklin India Dividend Yield Fund - IDCW;23.6620;22-May-2026
+103678;INF090I01957;-;Franklin India Dividend Yield Fund-Growth Plan;136.3533;22-May-2026
  
 HDFC Mutual Fund
  
@@ -5657,10 +5657,10 @@ Edelweiss Mutual Fund
  
 Franklin Templeton Mutual Fund
  
-118462;INF090I01FO5;INF090I01FP2;Franklin India Large Cap Fund - Direct - IDCW;47.7192;21-May-2026
-100470;INF090I01155;INF090I01163;Franklin India Large Cap Fund - IDCW;40.9121;21-May-2026
-118531;INF090I01FN7;-;Franklin India Large Cap Fund- Direct - Growth;1085.2571;21-May-2026
-100471;INF090I01171;-;Franklin India Large Cap Fund-Growth;974.3020;21-May-2026
+118462;INF090I01FO5;INF090I01FP2;Franklin India Large Cap Fund - Direct - IDCW;47.9408;22-May-2026
+100470;INF090I01155;INF090I01163;Franklin India Large Cap Fund - IDCW;41.1013;22-May-2026
+118531;INF090I01FN7;-;Franklin India Large Cap Fund- Direct - Growth;1090.2967;22-May-2026
+100471;INF090I01171;-;Franklin India Large Cap Fund-Growth;978.8076;22-May-2026
  
 Groww Mutual Fund
  
@@ -6604,10 +6604,10 @@ Edelweiss Mutual Fund
  
 Franklin Templeton Mutual Fund
  
-118559;INF090I01IZ5;-;Franklin Asian Equity Fund - Direct - Growth;47.9932;21-May-2026
-118558;INF090I01IX0;INF090I01IY8;Franklin Asian Equity Fund - Direct - IDCW ;21.9753;21-May-2026
-106979;INF090I01AB3;-;Franklin Asian Equity Fund - Growth Plan;43.5821;21-May-2026
-106978;INF090I01999;INF090I01AA5;Franklin Asian Equity Fund - IDCW ;20.5716;21-May-2026
+118559;INF090I01IZ5;-;Franklin Asian Equity Fund - Direct - Growth;48.2497;22-May-2026
+118558;INF090I01IX0;INF090I01IY8;Franklin Asian Equity Fund - Direct - IDCW ;22.0927;22-May-2026
+106979;INF090I01AB3;-;Franklin Asian Equity Fund - Growth Plan;43.8139;22-May-2026
+106978;INF090I01999;INF090I01AA5;Franklin Asian Equity Fund - IDCW ;20.6810;22-May-2026
 118557;INF090I01JF5;-;Franklin Build India Fund - Direct - Growth;167.6145;22-May-2026
 118556;INF090I01JD0;INF090I01JE8;Franklin Build India Fund - Direct - IDCW ;50.1051;22-May-2026
 112093;INF090I01AC1;INF090I01AD9;Franklin Build India Fund - IDCW ;41.1450;22-May-2026
@@ -6616,14 +6616,14 @@ Franklin Templeton Mutual Fund
 153944;INF090I01YS7;INF090I01YR9;Franklin India Multi-Factor Fund- Direct- IDCW;9.4648;22-May-2026
 153943;INF090I01YN8;-;Franklin India Multi-Factor Fund- Growth;9.3908;22-May-2026
 153941;INF090I01YP3;INF090I01YO6;Franklin India Multi-Factor Fund- IDCW;9.3908;22-May-2026
-118539;INF090I01GC8;-;Franklin India Opportunities Fund - Direct - Growth;272.8259;21-May-2026
-118538;INF090I01GD6;INF090I01GE4;Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW ;39.7873;21-May-2026
-103151;INF090I01841;-;Franklin India Opportunities Fund - Growth;244.7965;21-May-2026
-100524;INF090I01858;INF090I01866;Franklin INDIA OPPORTUNITIES FUND - IDCW ;35.1139;21-May-2026
-118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;498.3270;21-May-2026
-118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - IDCW ;43.4264;21-May-2026
-100521;INF090I01759;INF090I01767;Franklin India Technology Fund - IDCW ;38.6741;21-May-2026
-100522;INF090I01742;-;Franklin India Technology Fund-Growth;448.7420;21-May-2026
+118539;INF090I01GC8;-;Franklin India Opportunities Fund - Direct - Growth;273.8999;22-May-2026
+118538;INF090I01GD6;INF090I01GE4;Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW ;39.9439;22-May-2026
+103151;INF090I01841;-;Franklin India Opportunities Fund - Growth;245.7522;22-May-2026
+100524;INF090I01858;INF090I01866;Franklin INDIA OPPORTUNITIES FUND - IDCW ;35.2509;22-May-2026
+118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;497.0244;22-May-2026
+118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - IDCW ;43.3129;22-May-2026
+100521;INF090I01759;INF090I01767;Franklin India Technology Fund - IDCW ;38.5720;22-May-2026
+100522;INF090I01742;-;Franklin India Technology Fund-Growth;447.5570;22-May-2026
  
 Groww Mutual Fund
  
@@ -9825,14 +9825,14 @@ Edelweiss Mutual Fund
  
 Franklin Templeton Mutual Fund
  
-118543;INF090I01HV6;-;Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth;184.4349;21-May-2026
-118542;INF090I01HT0;INF090I01HU8;Franklin India Dynamic Asset Allocation Active Fund of funds - Direct - IDCW;47.3716;21-May-2026
-101657;INF090I01247;INF090I01254;Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW;39.8781;21-May-2026
-101656;INF090I01262;-;Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth;161.9251;21-May-2026
-132990;INF090I01LI5;INF090I01LJ3;Franklin India Income Plus Arbitrage Active Fund of Funds - Direct - IDCW;24.8196;21-May-2026
-132987;INF090I01LE4;-;Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan;21.9458;21-May-2026
-132989;INF090I01LH7;-;Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct;24.8196;21-May-2026
-132988;INF090I01LF1;INF090I01LG9;Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW;21.9458;21-May-2026
+118543;INF090I01HV6;-;Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth;184.8468;22-May-2026
+118542;INF090I01HT0;INF090I01HU8;Franklin India Dynamic Asset Allocation Active Fund of funds - Direct - IDCW;47.4774;22-May-2026
+101657;INF090I01247;INF090I01254;Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW;39.9662;22-May-2026
+101656;INF090I01262;-;Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth;162.2830;22-May-2026
+132990;INF090I01LI5;INF090I01LJ3;Franklin India Income Plus Arbitrage Active Fund of Funds - Direct - IDCW;24.8154;22-May-2026
+132987;INF090I01LE4;-;Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan;21.9419;22-May-2026
+132989;INF090I01LH7;-;Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct;24.8154;22-May-2026
+132988;INF090I01LF1;INF090I01LG9;Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW;21.9419;22-May-2026
 118511;INF090I01HW4;INF090I01HX2;Franklin India Life Stage Fund of Funds - 20's Plan - Direct - IDCW ;0.0000;19-Dec-2022
 102108;INF090I01577;-;Franklin India Life Stage Fund of Funds - 20's Plan - IDCW ;0.0000;19-Dec-2022
 102107;INF090I01593;-;Franklin INDIA LIFE STAGE FUND OF FUNDS - THE 20S PLAN (G);0.0000;19-Dec-2022
@@ -9972,10 +9972,10 @@ ICICI Prudential Mutual Fund
 120680;INF109K01W90;INF109K01X08;ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW;106.1122;22-May-2026
 102137;INF109K01837;-;ICICI Prudential Dynamic Asset Allocation Active FOF - Growth;121.3971;22-May-2026
 102138;INF109K01FJ9;INF109K01845;ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW;93.2928;22-May-2026
-147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;22.8749;21-May-2026
-147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;22.8749;21-May-2026
-147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;21.8660;21-May-2026
-147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;21.8653;21-May-2026
+147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;22.9973;22-May-2026
+147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;22.9973;22-May-2026
+147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;21.9826;22-May-2026
+147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;21.9819;22-May-2026
 120685;INF109K01U92;-;ICICI Prudential Gold ETF FOF - Direct Plan - Growth;50.4491;22-May-2026
 120686;INF109K01U76;INF109K01U84;ICICI Prudential Gold ETF FOF - Direct Plan - IDCW;50.4538;22-May-2026
 115833;INF109K01TK8;-;ICICI Prudential Gold ETF FOF - Growth;48.6058;22-May-2026
@@ -10383,10 +10383,10 @@ Edelweiss Mutual Fund
  
 Franklin Templeton Mutual Fund
  
-118551;INF090I01JR0;-;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth;104.1779;21-May-2026
-118550;INF090I01JP4;INF090I01JQ2;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW;104.1779;21-May-2026
-116633;INF090I01EW1;-;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;91.4806;21-May-2026
-116632;INF090I01EV3;INF090I01EU5;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;91.4806;21-May-2026
+118551;INF090I01JR0;-;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth;104.0761;22-May-2026
+118550;INF090I01JP4;INF090I01JQ2;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW;104.0761;22-May-2026
+116633;INF090I01EW1;-;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;91.3888;22-May-2026
+116632;INF090I01EV3;INF090I01EU5;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;91.3888;22-May-2026
  
 HDFC Mutual Fund
  
