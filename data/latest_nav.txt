@@ -9729,20 +9729,20 @@ Groww Mutual Fund
  
 Invesco Mutual Fund
  
-104484;-;INF205K01HN3;Invesco India Liquid Fund - Daily IDCW (Reinvestment);1002.7594;08-Aug-2026
-120537;INF205K01MF9;-;Invesco India Liquid Fund - Direct Plan - Growth;3875.6939;08-Aug-2026
-120536;INF205K01MG7;INF205K01MH5;Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1084.0252;08-Aug-2026
-120535;INF205KA1BE5;INF205K01MI3;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);1073.4164;08-Aug-2026
-120534;-;INF205K01ME2;Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment);1005.8604;08-Aug-2026
-104486;INF205K01HM5;-;Invesco India Liquid Fund - Growth;3840.1886;08-Aug-2026
-104492;INF205K01HQ6;INF205K01HP8;Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment);1004.8981;08-Aug-2026
-104488;INF205K01HG7;-;Invesco India Liquid Fund - Regular - Growth;3381.668;08-Aug-2026
-104489;-;INF205K01HH5;Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment);1004.9886;08-Aug-2026
-139390;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Above 3 Years;1000;08-Aug-2026
-139389;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years;1837.0017;08-Aug-2026
-139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;08-Aug-2026
-139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1836.5904;08-Aug-2026
-104485;INF205KA1BD7;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1019.5545;08-Aug-2026
+104484;-;INF205K01HN3;Invesco India Liquid Fund - Daily IDCW (Reinvestment);1002.7594;09-Aug-2026
+120537;INF205K01MF9;-;Invesco India Liquid Fund - Direct Plan - Growth;3876.3331;09-Aug-2026
+120536;INF205K01MG7;INF205K01MH5;Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1084.204;09-Aug-2026
+120535;INF205KA1BE5;INF205K01MI3;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);1073.5951;09-Aug-2026
+120534;-;INF205K01ME2;Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment);1005.8604;09-Aug-2026
+104486;INF205K01HM5;-;Invesco India Liquid Fund - Growth;3840.8145;09-Aug-2026
+104492;INF205K01HQ6;INF205K01HP8;Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment);1005.0618;09-Aug-2026
+104488;INF205K01HG7;-;Invesco India Liquid Fund - Regular - Growth;3382.1774;09-Aug-2026
+104489;-;INF205K01HH5;Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment);1005.14;09-Aug-2026
+139390;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Above 3 Years;1000;09-Aug-2026
+139389;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years;1837.3047;09-Aug-2026
+139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;09-Aug-2026
+139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1836.8932;09-Aug-2026
+104485;INF205KA1BD7;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1019.7207;09-Aug-2026
  
 Kotak Mahindra Mutual Fund
  
@@ -9866,14 +9866,14 @@ Helios Mutual Fund
  
 Invesco Mutual Fund
  
-147884;-;INF205KA1122;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);1000.5303;08-Aug-2026
-147883;INF205KA1163;-;Invesco India Overnight Fund - Direct Plan - Growth;1385.8909;08-Aug-2026
-147886;INF205KA1155;INF205KA1148;Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1001.2781;08-Aug-2026
+147884;-;INF205KA1122;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);1000.5303;09-Aug-2026
+147883;INF205KA1163;-;Invesco India Overnight Fund - Direct Plan - Growth;1386.0816;09-Aug-2026
+147886;INF205KA1155;INF205KA1148;Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1001.4162;09-Aug-2026
 147885;-;INF205KA1130;Invesco India Overnight Fund - Direct Plan - Weekly IDCW (Reinvestment);1001.7173;22-Apr-2025
-147880;-;INF205KA1072;Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment);1000.1395;08-Aug-2026
-147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1380.7655;08-Aug-2026
-147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1001.6165;08-Aug-2026
-147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1000.9144;08-Aug-2026
+147880;-;INF205KA1072;Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment);1000.1395;09-Aug-2026
+147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1380.9534;09-Aug-2026
+147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1001.753;09-Aug-2026
+147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1001.0505;09-Aug-2026
  
 NJ Mutual Fund
  
